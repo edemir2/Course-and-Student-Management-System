@@ -30,16 +30,17 @@ To perform operations, use the following commands:
 - `Course.cpp` and `Course.h`: Define the Course class with attributes and functionalities.
 - `CourseList.cpp`: Manages a collection of courses.
 - `StudentList.cpp`: Manages a collection of students.
+- `Makefile`: Simplifies the compilation process.
 
 ## Getting Started
 ### Prerequisites
 - Ensure a C++ compiler is installed on your system.
 
 ### Installation
-1. Download the source code files to your local machine.
-2. Compile the code using:
+1. Download the source code files, including the `Makefile`, to your local machine.
+2. Use the `Makefile` to compile the code. Run the following command:
    ```bash
-   g++ -o main main.cpp Student.cpp Course.cpp CourseList.cpp StudentList.cpp
+   make
 3. Run the executable with:
     ```bash
    ./main
