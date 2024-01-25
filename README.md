@@ -1,4 +1,4 @@
-# Course Management System
+# Course Management System (Mar 9, 2023)
 
 ## Introduction
 The Course Management System is a command-line application designed for managing courses and student enrollments. It streamlines various administrative tasks such as course creation, cancellation, student enrollment, and more.
